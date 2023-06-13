@@ -1,0 +1,179 @@
+Raw Column Name	Raw Column Value	Field Type	Curated Phenotype	MONDO Code	HPO Code
+Abdomen/Gastrointestinal (choice=Abdominal situs inversus)	Checked	checkbox	Abdominal Situs Inversus		
+Abdomen/Gastrointestinal (choice=Bile duct hypoplasia/biliary atresia)	Checked	checkbox	Bile Duct Hypoplasia/Biliary Atresia		
+Abdomen/Gastrointestinal (choice=Gallbladder abnormalities)	Checked	checkbox	Gallbladder Abnormalities		
+Abdomen/Gastrointestinal (choice=Malrotation of the gut)	Checked	checkbox	Malrotation Of The Gut		
+Abdomen/Gastrointestinal (choice=Spleen abnormality)	Checked	checkbox	Spleen Abnormality		
+Abdomen/Gastrointestinal (choice=imperforate anus)	Checked	checkbox	Imperforate Anus		
+Abdomen/Gastrointestinal (choice=renal anomaly)	Checked	checkbox	Renal Anomaly		
+Abdomen/Gastrointestinal (choice=Liver abnormalities)	Checked	checkbox	Liver Abnormalities		
+Skeletal (choice=Vertebral abnormalities)	Checked	checkbox	Vertebral Abnormalities		
+Skeletal (choice=Rib abnormalities)	Checked	checkbox	Rib Abnormalities		
+Skeletal (choice=Scoliosis)	Checked	checkbox	Scoliosis		
+Skeletal (choice=Limb defects)	Checked	checkbox	Limb Defects		
+Chest/Airway (choice=Sinusitis)	Checked	checkbox	Sinusitis		
+Chest/Airway (choice=Abnormal cilia biopsy)	Checked	checkbox	Abnormal Cilia Biopsy		
+Congenital Malformations (choice=Diaphragm - congenital diaphragmatic hernia)	Checked	checkbox	Congenital Diaphragmatic Hernia		
+Congenital Malformations (choice=Anus - Imperforate anus or anal atresia)	Checked	checkbox	Imperforate Anus Or Anal Atresia		
+Brain congenital malformations  (choice=Agensis of the corpus callosum)	Checked	checkbox	Agensis Of The Corpus Callosum		
+Brain congenital malformations  (choice=Arnold Chiari malformation)	Checked	checkbox	Arnold Chiari Malformation		
+ENT congenital malformations  (choice=Nose - choanal atresia)	Checked	checkbox	Choanal Atresia		
+ENT congenital malformations  (choice=Neck - congenital torticollis)	Checked	checkbox	Congenital Torticollis		
+ENT congenital malformations  (choice=Tracheoesphageal atresia)	Checked	checkbox	Tracheoesphageal Atresia		
+ENT congenital malformations  (choice=Tracheosesphageal fistula)	Checked	checkbox	Tracheosesphageal Fistula		
+ENT congenital malformations  (choice=Laryngomalacia/tracheomalacia)	Checked	checkbox	Laryngomalacia/Tracheomalacia		
+Type of ear abnormality  (choice=Microtia)	Checked	checkbox	Microtia		
+Type of palate abnormality  (choice=Cleft lip)	Checked	checkbox	Cleft Lip		
+Type of palate abnormality  (choice=Cleft palate)	Checked	checkbox	Cleft Palate		
+Eye congenital malformations  (choice=Coloboma)	Checked	checkbox	Coloboma		
+Chest congenital malformations  (choice=Pectus excavatum or carinatum)	Checked	checkbox	Pectus Excavatum Or Carinatum		
+Lung congenital malformations  (choice=Isomerism)	Checked	checkbox	Isomerism		
+Lung congenital malformations  (choice=Scimitar syndrome)	Checked	checkbox	Scimitar Syndrome		
+Lung congenital malformations  (choice=Pulmonary agenesis or hypoplasia)	Checked	checkbox	Pulmonary Agenesis Or Hypoplasia		
+GI and abdominal wall malformations  (choice=Duodenal atresia)	Checked	checkbox	Duodenal Atresia		
+GI and abdominal wall malformations  (choice=Omphalocele)	Checked	checkbox	Omphalocele		
+GI and abdominal wall malformations  (choice=Esophageal atresia)	Checked	checkbox	Esophageal Atresia		
+GI and abdominal wall malformations  (choice=Malrotation)	Checked	checkbox	Malrotation		
+GI and abdominal wall malformations  (choice=Inguinal or abdominal hernia)	Checked	checkbox	Inguinal Or Abdominal Hernia		
+Kidney congenital malformations  (choice=Single/ Unilateral kidney)	Checked	checkbox	Single/ Unilateral Kidney		
+Kidney congenital malformations  (choice=Horsehoe kidneys)	Checked	checkbox	Horsehoe Kidneys		
+Kidney congenital malformations  (choice=Renal agenesis)	Checked	checkbox	Renal Agenesis		
+Kidney congenital malformations  (choice=Multicystic kidneys or dysplastic kidneys)	Checked	checkbox	Multicystic Kidneys Or Dysplastic Kidneys		
+Kidney congenital malformations  (choice=Duplicated collecting system)	Checked	checkbox	Duplicated Collecting System		
+Spleen congenital malformations  (choice=Asplenia)	Checked	checkbox	Asplenia		
+Spleen congenital malformations  (choice=Polysplenia)	Checked	checkbox	Polysplenia		
+Liver/Gall bladder congenital malformations  (choice=Bile duct hypoplasia/biliary atresia)	Checked	checkbox	Bile Duct Hypoplasia/Biliary Atresia		
+Liver/Gall bladder congenital malformations  (choice=Gallbladder anomaly)	Checked	checkbox	Gallbladder Anomaly		
+GU congenital malformations  (choice=Ambiguous genitalia)	Checked	checkbox	Ambiguous Genitalia		
+GU congenital malformations  (choice=Bilateral cryptorchidism)	Checked	checkbox	Bilateral Cryptorchidism		
+GU congenital malformations  (choice=Hypospadias)	Checked	checkbox	Hypospadias		
+GU congenital malformations  (choice=Chordee)	Checked	checkbox	Chordee		
+GU congenital malformations  (choice=Bladder exstrophy)	Checked	checkbox	Bladder Exstrophy		
+Ribs/vertebrae congenital malformations  (choice=Hemivertebrae)	Checked	checkbox	Hemivertebrae		
+Ribs/vertebrae congenital malformations  (choice=Absent vertebrae)	Checked	checkbox	Absent Vertebrae		
+Ribs/vertebrae congenital malformations  (choice=Butterfly vertebrae)	Checked	checkbox	Butterfly Vertebrae		
+Limb congenital malformations  (choice=Postaxial polydactyly)	Checked	checkbox	Postaxial Polydactyly		
+Limb congenital malformations  (choice=Syndactyly)	Checked	checkbox	Syndactyly		
+Limb congenital malformations  (choice=Limb reduction defects)	Checked	checkbox	Limb Reduction Defects		
+Limb congenital malformations  (choice=Clubfoot/ Equinovarus deformity)	Checked	checkbox	Clubfoot/ Equinovarus Deformity		
+Limb congenital malformations  (choice=Metatarsus adductus)	Checked	checkbox	Metatarsus Adductus		
+Skin congenital malformations  (choice=Hemangioma)	Checked	checkbox	Hemangioma		
+Umbilical congenital malformations (choice=2 vessel cord)	Checked	checkbox	2 Vessel Cord		
+Situs	Ambiguous	radio button	Situs Ambiguous		
+Situs	Inversus totalis	radio button	Situs Inversus Totalis		
+Situs	Solitus	radio button	Situs Solitus		
+Spleen abnormality	polysplenia	radio button	Polysplenia		
+Spleen abnormality	asplenia	radio button	Asplenia		
+Lungs	bilateral trilobed	radio button	Bilateral Trilobed Lungs		
+Lungs	bilateral bilobed	radio button	Bilateral Bilobed Lungs		
+Bronchi	hyparterial	radio button	Hyparterial Bronchi		
+Bronchi	eparterial	radio button	Eparterial Bronchi		
+List 'other' Brain congenital malformations	mild white matter volume loss	free text	mild white matter volume loss		
+List 'other' Brain congenital malformations	colpocephaly	free text	colpocephaly		
+List 'other' Brain congenital malformations	sagittal craniosynostosis (concern also about lambdoid sutures however they are not ridged on examination today); dolichocephaly	free text	sagittal craniosynostosis (concern also about lambdoid sutures however they are not ridged on examination today); dolichocephaly		
+List 'other' Brain congenital malformations	"IMPRESSION:   1. Acute left greater than right watershed white matter infarcts from global hypoperfusion. No evidence for hemorrhage. 2. Global volume loss likely related to congenital heart disease. 3. MR spectroscopy demonstrates neuronal injury, gliosis and a small lactate peak which is compatible with chronic hypoperfusion."	free text	"IMPRESSION:   1. Acute left greater than right watershed white matter infarcts from global hypoperfusion. No evidence for hemorrhage. 2. Global volume loss likely related to congenital heart disease. 3. MR spectroscopy demonstrates neuronal injury, gliosis and a small lactate peak which is compatible with chronic hypoperfusion."		
+List 'other' Brain congenital malformations	"Mild hypoxic ischemic encephalopathy, neonatal onset"	free text	"Mild hypoxic ischemic encephalopathy, neonatal onset"		
+List 'other' Brain congenital malformations	general mild cerebral volume loss	free text	general mild cerebral volume loss		
+List 'other' Brain congenital malformations	asymmetrical ventricles	free text	asymmetrical ventricles		
+Ears: Specify	no right ear	free text	no right ear		
+Tracheoesphageal atresia: Specify	Atresia of the esophagus with tracheoesophageal fistula (TEF type C)	free text	Atresia of the esophagus with tracheoesophageal fistula (TEF type C)		
+Tracheosesphageal fistula: Specify	TEF Type C	free text	TEF Type C		
+Tracheosesphageal fistula: Specify	Type C tracheoesophageal fistula	free text	Type C tracheoesophageal fistula		
+Tracheosesphageal fistula: Specify	Atresia of the esophagus with tracheoesophageal fistula (TEF type C)	free text	Atresia of the esophagus with tracheoesophageal fistula (TEF type C)		
+Laryngomalacia/tracheomalacia: Specify	Laryngomalacia	free text	Laryngomalacia		
+List 'other' ENT congenital malformations	Ankyloglossia	free text	Ankyloglossia		
+List 'other' ENT congenital malformations	oropharyngeal dysphagia characterized by disorganized SSB pattern requiring external pacing and delayed pharyngeal swallow exacerbated by fatigue.	free text	oropharyngeal dysphagia characterized by disorganized SSB pattern requiring external pacing and delayed pharyngeal swallow exacerbated by fatigue.		
+List 'other' ENT congenital malformations	bifid uvula	free text	bifid uvula		
+List 'other' ENT congenital malformations	Congenital pharyngomalacia	free text	Congenital pharyngomalacia		
+Microtia: Specify	right microtia	free text	right microtia		
+List 'other' type of ear abnormality	no right ear	free text	no right ear		
+List 'other' type of ear abnormality	"Symmetric bilateral inner ear anomalies with cochlear and labyrinthine dysplasia. Complete absence of all three semicircular canals, which is characteristically described with the CHARGE association."	free text	"Symmetric bilateral inner ear anomalies with cochlear and labyrinthine dysplasia. Complete absence of all three semicircular canals, which is characteristically described with the CHARGE association."		
+List 'other' type of ear abnormality	abnormal pinnae; Right helix narrow and left with lopped appearance. Superior portion of  left helix  even with left lateral canthus and right helix above level of right lateral canthus.  Right helix narrow and left with lopped appearance. Superior portion of  left helix  even with left lateral canthus and right helix above level of right lateral canthus.	free text	abnormal pinnae; Right helix narrow and left with lopped appearance. Superior portion of  left helix  even with left lateral canthus and right helix above level of right lateral canthus.  Right helix narrow and left with lopped appearance. Superior portion of  left helix  even with left lateral canthus and right helix above level of right lateral canthus.		
+Coloboma: Specify	right sided	free text	right sided		
+Coloboma: Specify	bilateral optic nerve colobomas and left large chorioretinal coloboma.	free text	bilateral optic nerve colobomas and left large chorioretinal coloboma.		
+Coloboma: Specify	inferior optic nerve coloboma in right eye and inferior optic nerve coloboma in left eye	free text	inferior optic nerve coloboma in right eye and inferior optic nerve coloboma in left eye		
+List 'other' eye congenital malformations	left sided optic nerve hypoplasia	free text	left sided optic nerve hypoplasia		
+List 'other' eye congenital malformations	optic nerve hypoplasia	free text	optic nerve hypoplasia		
+Pectus excavatum or carinatum: Specify	Pectus excavatum	free text	Pectus excavatum		
+Pectus excavatum or carinatum: Specify	mild pectus excavatum	free text	mild pectus excavatum		
+Isomerism: Specify	Right	free text	Right		
+Scimitar syndrome: Specify	Scimitar-like syndrome	free text	Scimitar-like syndrome		
+Pulmonary agenesis or hypoplasia: Specify	right lung hypoplasia	free text	right lung hypoplasia		
+Pulmonary agenesis or hypoplasia: Specify	bilateral upper lobe agenesis	free text	bilateral upper lobe agenesis		
+List 'other' lung congenital malformations	2 anatomically L lungs	free text	2 anatomically L lungs		
+List 'other' lung congenital malformations	chronic lung disease of prematurity	free text	chronic lung disease of prematurity		
+List 'other' lung congenital malformations	Pleural effusion (chylothorax; right)	free text	Pleural effusion (chylothorax; right)		
+Malrotation: Specify	mild intestinal malrotation	free text	mild intestinal malrotation		
+Malrotation: Specify	congenital incomplete rotation	free text	congenital incomplete rotation		
+Malrotation: Specify	Intestinal malrotation	free text	Intestinal malrotation		
+Malrotation: Specify	large and small bowel malrotation	free text	large and small bowel malrotation		
+Inguinal or abdominal hernia: Specify	hiatal hernia	free text	hiatal hernia		
+Inguinal or abdominal hernia: Specify	left  posterior diaphragmatic herniation of the spleen into the left hemithorax/ partial intrathoracic spleen	free text	left  posterior diaphragmatic herniation of the spleen into the left hemithorax/ partial intrathoracic spleen		
+List 'other' GI and abdominal wall malformations	hiatal hernia	free text	hiatal hernia		
+Single/ Unilateral kidney: Specify	single left kidney	free text	single left kidney		
+Single/ Unilateral kidney: Specify	left-sided renal agenesis	free text	left-sided renal agenesis		
+Single/ Unilateral kidney: Specify	absent right	free text	absent right		
+Horsehoe kidneys: Specify	horseshoe kidney without pylectasis	free text	horseshoe kidney without pylectasis		
+Renal agenesis: Specify	left	free text	left		
+Multicystic kidneys or dysplastic kidneys: Specify	multicystic dysplastic right-sided kidney	free text	multicystic dysplastic right-sided kidney		
+Multicystic kidneys or dysplastic kidneys: Specify	Multicystic/Polycystic and dysplatc Left kidney	free text	Multicystic/Polycystic and dysplatc Left kidney		
+Duplicated collecting system: Specify	Duplex collecting systems of the kidneys bilaterally.	free text	Duplex collecting systems of the kidneys bilaterally.		
+List 'other' kidney congenital malformations	left pelvic kidney (The left kidney is inferiorly located.)	free text	left pelvic kidney (The left kidney is inferiorly located.)		
+List 'other' kidney congenital malformations	1. Left kidney located within the pelvis and smaller in size (2.4 cm) when compared to the right kidney (4.0 cm). No parenchymal abnormalities of the left kidney. 2. Normal sonographic evaluation of the right kidney and urinary bladder.	free text	1. Left kidney located within the pelvis and smaller in size (2.4 cm) when compared to the right kidney (4.0 cm). No parenchymal abnormalities of the left kidney. 2. Normal sonographic evaluation of the right kidney and urinary bladder.		
+List 'other' kidney congenital malformations	Bilateral grade 1 hydronephrosis.	free text	Bilateral grade 1 hydronephrosis.		
+List 'other' kidney congenital malformations	right hydroureteronephrosis	free text	right hydroureteronephrosis		
+List 'other' kidney congenital malformations	right-sided grade 3 hydronephrosis.	free text	right-sided grade 3 hydronephrosis.		
+List 'other' kidney congenital malformations	R renal vein thrombosis with enlarged and echogenic right kidney; L grade 2 hydronephrosis	free text	R renal vein thrombosis with enlarged and echogenic right kidney; L grade 2 hydronephrosis		
+Polysplenia: Specify	ultiple small spleens posterior to the liver in the right upper quadrant	free text	ultiple small spleens posterior to the liver in the right upper quadrant		
+Polysplenia: Specify	left-sided splenules	free text	left-sided splenules		
+Polysplenia: Specify	multiple accessory spleen are identified subdiaphragmatic region on the right	free text	multiple accessory spleen are identified subdiaphragmatic region on the right		
+Gallbladder abnormality: Specify	2. Remnant of the gallbladder and/or microgallbladder likely identified - per abdominal ultrasound	free text	2. Remnant of the gallbladder and/or microgallbladder likely identified - per abdominal ultrasound		
+List 'other' liver/gall bladder congenital malformations	absent gall bladder	free text	absent gall bladder		
+List 'other' liver/gall bladder congenital malformations	cirrhosis	free text	cirrhosis		
+Ambiguous genitalia: Specify	Bifid scrotum and phallus	free text	Bifid scrotum and phallus		
+List 'other' GU congenital malformations	ovarian cyst	free text	ovarian cyst		
+List 'other' GU congenital malformations	2. Counterclockwise penile torsion. 3. Scrotal webbing. 4. Redundant prepuce with penile adhesions.	free text	2. Counterclockwise penile torsion. 3. Scrotal webbing. 4. Redundant prepuce with penile adhesions.		
+List 'other' GU congenital malformations	"mild external genitalia dysmorphology; abnormal-looking female external genitalia, with right hypolastic labia majora, small tubercle on the upper part of the right labia majora, absent of the clitoral hook, hypoplastic labia minora, which appear to be labial minora appendages, vaginal canal appears to be patent, perineal raphe is shorten"	free text	"mild external genitalia dysmorphology; abnormal-looking female external genitalia, with right hypolastic labia majora, small tubercle on the upper part of the right labia majora, absent of the clitoral hook, hypoplastic labia minora, which appear to be labial minora appendages, vaginal canal appears to be patent, perineal raphe is shorten"		
+List 'other' GU congenital malformations	Phimosis.	free text	Phimosis.		
+List 'other' GU congenital malformations	chordee	free text	chordee		
+List 'other' GU congenital malformations	small phallus (micropenis) and hydroceles	free text	small phallus (micropenis) and hydroceles		
+List 'other' GU congenital malformations	bicornuate uterus	free text	bicornuate uterus		
+List 'other' GU congenital malformations	R. Hydrocele	free text	R. Hydrocele		
+List 'other' GU congenital malformations	necrotizing enterocolities	free text	necrotizing enterocolities		
+List 'other' GU congenital malformations	Bilateral hydroceles	free text	Bilateral hydroceles		
+Hemivertebrae: Specify	T11 right	free text	T11 right		
+Hemivertebrae: Specify	There is a hemivertebrae at the L2-L3 level resulting in a focal dextroconvex curvature of the lumbar spine.	free text	There is a hemivertebrae at the L2-L3 level resulting in a focal dextroconvex curvature of the lumbar spine.		
+Hemivertebrae: Specify	hemivertebrae with vertebral body and rib anomalies noted from T6 to T10	free text	hemivertebrae with vertebral body and rib anomalies noted from T6 to T10		
+Absent vertebrae: Specify	4 lumbar vertebrae	free text	4 lumbar vertebrae		
+Absent vertebrae: Specify	Missing portion of lumbar and sacral spine	free text	Missing portion of lumbar and sacral spine		
+Butterfly vertebrae: Specify	T6	free text	T6		
+Butterfly vertebrae: Specify	T5	free text	T5		
+Butterfly vertebrae: Specify	butterfly vertebrae at C5.	free text	butterfly vertebrae at C5.		
+List 'other' ribs/vertebrae congenital malformations	"12 right sided ribs, 11 left sided ribs"	free text	"12 right sided ribs, 11 left sided ribs"		
+List 'other' ribs/vertebrae congenital malformations	congenital scoliosis	free text	congenital scoliosis		
+List 'other' ribs/vertebrae congenital malformations	small syrinx as well as fusion of C7-T1	free text	small syrinx as well as fusion of C7-T1		
+List 'other' ribs/vertebrae congenital malformations	kyphosis	free text	kyphosis		
+List 'other' ribs/vertebrae congenital malformations	"Spinal malformations including sacral lipomyelocele, tethered spinal cord terminating in the sacral spinal canal, sacral dermal sinus tract, segmentation anomalies of sacral vertebrae from S3-5, mild lumbosacral syringohydromyelia and nondilated cervical syringohydromyelia."	free text	"Spinal malformations including sacral lipomyelocele, tethered spinal cord terminating in the sacral spinal canal, sacral dermal sinus tract, segmentation anomalies of sacral vertebrae from S3-5, mild lumbosacral syringohydromyelia and nondilated cervical syringohydromyelia."		
+List 'other' ribs/vertebrae congenital malformations	"There is a large shallow, but very prominent sacral dimple, this is somewhat complex."	free text	"There is a large shallow, but very prominent sacral dimple, this is somewhat complex."		
+List 'other' ribs/vertebrae congenital malformations	"Spinal cord terminating at L2-L3, which is a borderline low location. Otherwise, no other findings suggestive of cord tethering; sacral dimple without visable base"	free text	"Spinal cord terminating at L2-L3, which is a borderline low location. Otherwise, no other findings suggestive of cord tethering; sacral dimple without visable base"		
+List 'other' ribs/vertebrae congenital malformations	Dysplastic distal sacrum/coccyx.; Sacral dimple with fibrous tract to the dysplastic sacrum without extension into the thecal sac.	free text	Dysplastic distal sacrum/coccyx.; Sacral dimple with fibrous tract to the dysplastic sacrum without extension into the thecal sac.		
+List 'other' ribs/vertebrae congenital malformations	severe cervical spine stenosis; T-spine stenotic in regions with cord compression	free text	severe cervical spine stenosis; T-spine stenotic in regions with cord compression		
+List 'other' ribs/vertebrae congenital malformations	Sacral agenesis and kyphosis	free text	Sacral agenesis and kyphosis		
+List 'other' ribs/vertebrae congenital malformations	"Multilevel vertebral body anomalies, left-sided rib anomalies; does not otherwise specify - cc"	free text	"Multilevel vertebral body anomalies, left-sided rib anomalies; does not otherwise specify - cc"		
+Postaxial polydactyly: Specify	"Post-axial polydactyly of left hand with ""nubbin"" attached to mid-5th digit.  Post-axial polydactyly of the feet with 6th digit ""nubbins"" off the 5th toes bilaterally"	free text	"Post-axial polydactyly of left hand with ""nubbin"" attached to mid-5th digit.  Post-axial polydactyly of the feet with 6th digit ""nubbins"" off the 5th toes bilaterally"		
+Syndactyly: Specify	"Mild 2-3 syndactyly on both sides, overlap of 3rd over 4th on right and 2nd over 3rd and 4th over 5th on left side. Hypoplasia of 3rd toe on right side"	free text	"Mild 2-3 syndactyly on both sides, overlap of 3rd over 4th on right and 2nd over 3rd and 4th over 5th on left side. Hypoplasia of 3rd toe on right side"		
+Syndactyly: Specify	2/3 toe syndactyly L>R bilaterally	free text	2/3 toe syndactyly L>R bilaterally		
+Limb reduction defects: Specify	Left reduction defect of left hand	free text	Left reduction defect of left hand		
+Limb reduction defects: Specify	Right arm shortened with apparent absence of radius and ulna	free text	Right arm shortened with apparent absence of radius and ulna		
+Limb reduction defects: Specify	apparent rhizomelic shortening	free text	apparent rhizomelic shortening		
+Clubfoot/ Equinovarus deformity: Specify	left clubfoot	free text	left clubfoot		
+Clubfoot/ Equinovarus deformity: Specify	BILATERAL CLUBFOOT	free text	BILATERAL CLUBFOOT		
+Clubfoot/ Equinovarus deformity: Specify	bilateral	free text	bilateral		
+Metatarsus adductus: Specify	possible mild bilateral metatarsus adductus	free text	possible mild bilateral metatarsus adductus		
+List 'other' limb congenital malformations	smaller left foot	free text	smaller left foot		
+List 'other' limb congenital malformations	extra left thumb	free text	extra left thumb		
+List 'other' limb congenital malformations	Phocomelia of the upper limb; Manus vara	free text	Phocomelia of the upper limb; Manus vara		
+List 'other' limb congenital malformations	"right radio-ulnar aplasia or hypoplasia, right hadn Madelung deformity, right thumb absent, 4 digits present and hypoplastic thenar and hypothenar regions of the right palm"	free text	"right radio-ulnar aplasia or hypoplasia, right hadn Madelung deformity, right thumb absent, 4 digits present and hypoplastic thenar and hypothenar regions of the right palm"		
+List 'other' limb congenital malformations	chondrodysplasia punctata ; contractural deformities of major joints as well as wrists/fingers	free text	chondrodysplasia punctata ; contractural deformities of major joints as well as wrists/fingers		
+List 'other' limb congenital malformations	"Bilateral lower extremities have short femurs, bilateral hind foot deformity"	free text	"Bilateral lower extremities have short femurs, bilateral hind foot deformity"		
+Hemangioma: Specify	hemangiomas on abdomen and right deltoid	free text	hemangiomas on abdomen and right deltoid		
